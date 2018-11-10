@@ -1,0 +1,40 @@
+{
+  "skiBoots": [
+    {
+      "skiBootsId": 1,
+      "gender": "male",
+      "abilityLevel": "professional",
+      "producent": "Fisher",
+      "flex": "90-95",
+      "size": 26,
+      "price": 234
+    },
+    {
+      "skiBootsId": 2,
+      "gender": "female",
+      "abilityLevel": "professional",
+      "producent": "Atomic",
+      "flex": "90-95",
+      "size": 31,
+      "price": 235
+    },
+    {
+      "skiBootsId": 3,
+      "gender": "male",
+      "abilityLevel": "amateur",
+      "producent": "K2",
+      "flex": "90-95",
+      "size": 28,
+      "price": 233
+    },
+    {
+      "skiBootsId": 4,
+      "gender": "male",
+      "abilityLevel": "professional",
+      "producent": "Fisher",
+      "flex": "90-95",
+      "size": 30,
+      "price": 233
+    }
+  ]
+}

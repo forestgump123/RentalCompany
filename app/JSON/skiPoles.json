@@ -1,0 +1,44 @@
+{
+  "skiPoles":[
+    {
+      "skiPolesId":1,
+      "skiPolesName":"HEAD 18/19 JOY BLACK",
+      "gender":"male",
+      "skiPolesSize":"100cm",
+      "skiPolesWeight":"161g",
+      "price":123
+
+    },
+    {
+      "skiPolesId":2,
+      "skiPolesName":"Fisher 20/19",
+      "gender":"female",
+      "skiPolesSize":"110cm",
+      "skiPolesWeight":"112g",
+      "price":132
+
+    },
+    {
+      "skiPolesId":3,
+      "skiPolesName":"Atomic BLACK",
+      "gender":"male",
+      "skiPolesSize":"120cm",
+      "skiPolesWeight":"161g",
+      "price":233
+
+    },
+    {
+      "skiPolesId":4,
+      "skiPolesName":"K2 RED",
+      "gender":"male",
+      "skiPolesSize":"112cm",
+      "skiPolesWeight":"163g",
+      "price":322
+
+    }
+
+
+  ]
+
+
+}

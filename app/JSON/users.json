@@ -1,0 +1,41 @@
+{
+  "users":[
+
+    {
+    "userId": 1,
+    "name": {"firstName": "jan", "lastName": "nowicki"},
+    "phoneNumber": "603275928",
+    "creditCardNumber": "4556240939771350",
+    "userIdentityId": "DBC 435344"
+    },
+    {
+      "userId": 2,
+      "name": {"firstName": "michal", "lastName": "mann"},
+      "phoneNumber": "213275928",
+      "creditCardNumber": "1256240939771350",
+      "userIdentityId": "ABC 435344"
+    },
+    {
+      "userId": 3,
+      "name": {"firstName": "kuba", "lastName": "porada"},
+      "phoneNumber": "876275928",
+      "creditCardNumber": "1236240939771350",
+      "userIdentityId": "DBD 435344"
+    },
+
+    {
+      "userId": 4,
+      "name": {"firstName": "lukasz", "lastName": "wis"},
+      "phoneNumber": "603275912",
+      "creditCardNumber": "4543240939771350",
+      "userIdentityId": "DBC 125344"
+    }
+
+
+
+
+
+  ]
+
+
+}

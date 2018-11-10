@@ -1,0 +1,47 @@
+{
+"skis":[
+  {
+    "skisId": 1,
+    "skisPrice": 122,
+    "skisProducent": "Fisher",
+    "skisAttribute":{"size": 110, "weight": "2000/164"},
+    "skisName": "Fisher Curv ",
+    "price":123
+
+  },
+  {
+    "skisId": 2,
+    "skisPrice": 124,
+    "skisProducent": "Fisher",
+    "skisAttribute":{"size": 150, "weight": "2000/164"},
+    "skisName": "Fisher RC4",
+    "price":123
+
+  },
+
+  {
+    "skisId": 3,
+    "skisPrice": 125,
+    "skisProducent": "Fisher",
+    "skisAttribute":{"size": 110, "weight": "2000/163"},
+    "skisName": "Fisher RACE",
+    "price":123
+
+  },
+
+  {
+    "skisId": 4,
+    "skisPrice": 431,
+    "skisProducent": "Fisher",
+    "skisAttribute":{"size": 150, "weight": "2000/164"},
+    "skisName": "Fisher RC4",
+    "price":123
+
+  }
+
+
+]
+
+
+
+}
